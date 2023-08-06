@@ -7,5 +7,5 @@ The user can save posts into custom lists, which are securely stored on their ac
 
 
 
-Uploading PXL_20230109_005927204.TS.mp4…
+https://github.com/shmckl/CSC306_NewsApp/assets/11645166/be38a176-a210-4189-a2e9-f862806cf5fa
 
