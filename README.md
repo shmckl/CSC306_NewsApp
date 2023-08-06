@@ -1,5 +1,5 @@
 # CSC306_NewsApp
-New Aggregator Android App on XML, Kotlin and Firebase.
+News Aggregator Android App on XML, Kotlin, Firebase and Material Design.
 
 The app uses Gnews API to fetch news from various media sources and display them in the scrollable list.
 
