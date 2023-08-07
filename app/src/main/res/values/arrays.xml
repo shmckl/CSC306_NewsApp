@@ -1,0 +1,46 @@
+<resources>
+    <!-- Push Notifications Preference -->
+    <string-array name="push_entries">
+        <item>All</item>
+        <item>Important</item>
+        <item>Off</item>
+    </string-array>
+
+    <string-array name="push_values">
+        <item>all</item>
+        <item>important</item>
+        <item>off</item>
+    </string-array>
+
+    <!-- Email Notifications Preference -->
+    <string-array name="email_entries">
+        <item>All</item>
+        <item>Important</item>
+        <item>Off</item>
+    </string-array>
+
+    <string-array name="email_values">
+        <item>all</item>
+        <item>important</item>
+        <item>off</item>
+    </string-array>
+
+    <!-- Theme Preference -->
+    <string-array name="theme_entries">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Same as System</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="sample_data">
+        <item>Sample Title One</item>
+        <item>Sample Title Two</item>
+        <item>Sample Title Three</item>
+    </string-array>
+</resources>

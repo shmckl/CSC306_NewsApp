@@ -1,0 +1,53 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/preferences">
+
+        <ListPreference
+            app:defaultValue="all"
+            app:entries="@array/push_entries"
+            app:entryValues="@array/push_values"
+            app:key="push_pref"
+            app:title="@string/push"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="all"
+            app:entries="@array/email_entries"
+            app:entryValues="@array/email_values"
+            app:key="email_pref"
+            app:title="@string/email"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="@string/theme_default"
+            app:entries="@array/theme_entries"
+            app:entryValues="@array/theme_values"
+            app:key="@string/theme"
+            app:title="@string/theme"
+            app:useSimpleSummaryProvider="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/about">
+
+        <PreferenceScreen app:title="@string/terms" />
+        <PreferenceScreen app:title="@string/policy" />
+        <PreferenceScreen app:title="@string/help" />
+
+    </PreferenceCategory>
+<!--
+    <PreferenceCategory app:title="@string/account">
+
+        <PreferenceScreen
+            app:key="logout_pref"
+            app:title="@string/action_logout" >
+            <intent
+                android:action="com.example.csc306_newsapp.SETTING_START_ACTIVITY"
+                android:targetClass="com.example.csc306_newsapp.LoginActivity"
+                android:targetPackage="com.example.csc306_newsapp" />
+        </PreferenceScreen>
+
+    </PreferenceCategory>-->
+
+</PreferenceScreen>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">CSC306_NewsApp</string>
+    <string name="homeHeader">News</string>
+    <string name="for_you">For You</string>
+    <string name="api_key">9bee71e658bff188845464d46b0f094b</string>
+    <string name="cat1">All</string>
+    <string name="cat2">Local</string>
+    <string name="cat3">Technology</string>
+    <string name="cat4">Education</string>
+    <string name="cat5">Politics</string>
+    <string name="temp_heading">Swansea University is giving out free money to all its students.</string>
+    <string name="temp_preveiw">Not so long ago it has been announced that Swansea University will be financially supporting all its students with a generous sum to get through the economic crisis caused by Liz Truss. Noone could ever expect this but...</string>
+    <string name="temp_source">NotFakeNews</string>
+    <string name="settings">Settings</string>
+    <string name="preferences">Preferences</string>
+    <string name="account">Account</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="theme">Theme</string>
+    <string name="notifications">Notifications</string>
+    <string name="push">Push Notifications</string>
+    <string name="email">Email Notifications</string>
+    <string name="off">Off</string>
+    <string name="important">Important</string>
+    <string name="all">All</string>
+    <string name="theme_default">3</string>
+    <string-array name="categories">
+        <item>For You</item>
+        <item>Local</item>
+        <item>Politics</item>
+        <item>Travel</item>
+        <item>Medicine</item>
+        <item>Technology</item>
+        <item>Education</item>
+        <item>Finance</item>
+    </string-array>
+    <string name="msg">Snack has been clicked</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="empty_username">Please Enter Email</string>
+    <string name="empty_password">Please Enter Password</string>
+    <string name="empty_confirm">Please Enter Password Again</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_preferences">Edit Preferences</string>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Preference Titles -->
+    <string name="test1">first testing string</string>
+    <string name="test2">second testing string</string>
+    <string name="test3">third testing string</string>
+    <string name="logout_pref">logout_pref</string>
+    <string name="this_is_about_page">This is About page</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="saved">Saved News</string>
+    <string name="explore">Explore</string>
+    <string name="welcome_user">Welcome User!</string>
+    <string name="your_categories">Your Categories:</string>
+    <string name="select_categories">Select Categories</string>
+
+</resources>
